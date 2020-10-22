@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043131884941",
+    "firebase_url": "https://instamobile--signing.firebaseio.com",
+    "project_id": "instamobile--signing",
+    "storage_bucket": "instamobile--signing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043131884941:android:cd25847d0f597f30b409c4",
+        "android_client_info": {
+          "package_name": "com.googlelogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043131884941-bjlcudp7ugelnj0uu5qh8124kq6p51v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googlelogindemo",
+            "certificate_hash": "068ca2ef84794dc3e245e882ede4539d0259f8eb"
+          }
+        },
+        {
+          "client_id": "1043131884941-56g1eho8l6e6rassf5jkhdpbc6d0rdne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlL55_oPfJC1XAIt1KxU1Famdi_Xjm3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043131884941-56g1eho8l6e6rassf5jkhdpbc6d0rdne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
